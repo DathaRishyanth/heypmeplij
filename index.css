@@ -1,0 +1,15 @@
+button{
+   width: 300px;
+   height: 100px;
+   border-radius: 10px;
+   background-color: green;
+   text-align: center;
+   font-size: 50px;
+   color: white;
+   position: absolute;
+   left: 40%;
+   top: 43%;
+}
+html{
+    background-color: skyblue;
+}
